@@ -1,1 +1,1 @@
-# introduction_synthetic_data
+# Simple usage of synthetic data. 
